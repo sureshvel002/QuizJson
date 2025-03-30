@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Which country recently hosted the G20 Summit?",
+      "options": ["India", "USA", "Brazil", "China"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who won the 2024 Nobel Peace Prize?",
+      "options": ["Volodymyr Zelenskyy", "Greta Thunberg", "Maria Ressa", "To be announced"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which tech company recently launched its first AI-powered search engine?",
+      "options": ["Google", "Microsoft", "Apple", "Amazon"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which country recently landed a spacecraft on the Moon’s south pole?",
+      "options": ["Russia", "USA", "India", "China"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who is the current Secretary-General of the United Nations?",
+      "options": ["António Guterres", "Ban Ki-moon", "Jens Stoltenberg", "Ursula von der Leyen"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which film won the Best Picture award at the 2024 Oscars?",
+      "options": ["Oppenheimer", "Barbie", "Killers of the Flower Moon", "The Fabelmans"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which country recently joined BRICS as a new member?",
+      "options": ["Saudi Arabia", "Argentina", "Indonesia", "Turkey"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the latest iPhone model released by Apple?",
+      "options": ["iPhone 14", "iPhone 15", "iPhone 16", "iPhone 15 Pro"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which team won the 2024 UEFA Champions League?",
+      "options": ["Real Madrid", "Manchester City", "Bayern Munich", "Paris Saint-Germain"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which country will host the 2026 FIFA World Cup?",
+      "options": ["Qatar", "USA, Canada & Mexico", "France"],
+      "correctOption": 1,
+      "points": 10
+    }
+  ]
+}
